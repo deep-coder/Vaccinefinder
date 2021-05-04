@@ -1,0 +1,7 @@
+.h{
+    position: sticky;
+    top: 0;
+    height: 58px;
+    background-color: var(--white);
+    border-bottom: 1px solid var(--border) 
+}

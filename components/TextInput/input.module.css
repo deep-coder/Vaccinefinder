@@ -1,0 +1,14 @@
+.inputWrapper{
+    position: relative;
+    min-height: 50px;
+    height: 50px;
+}
+
+.inputWrapper label{
+    position: absolute;
+}
+
+.inputWrapper input{
+    height: 100%;
+    width: 100%;
+}
